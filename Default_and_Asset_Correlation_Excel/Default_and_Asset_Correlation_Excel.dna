@@ -1,0 +1,3 @@
+﻿<DnaLibrary Name="Default_and_Asset_Correlation_Excel" RuntimeVersion="v4.0">
+<ExternalLibrary Path="Default_and_Asset_Correlation_Excel.dll" Pack="true"/>
+</DnaLibrary>
